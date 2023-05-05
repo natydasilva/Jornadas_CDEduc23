@@ -43,11 +43,11 @@ Cronograma
 
 **7. Modelos predictivos para pruebas adaptativas de inglés. Ignacio Alvarez, Natalia da Silva, IESTA-FCEA.**
 
-+ [*Presentación*](https://github.com/natydasilva/Jornadas_CDEduc23/tree/master/Presentaciones/7.Alvaez.pdf)
++ [*Presentación*](https://github.com/natydasilva/Jornadas_CDEduc23/tree/master/Presentaciones/7.Alvarez.pdf)
 
 **8.Predicción del riesgo de abandono en estudiantes de Jóvenes a Programar. Yanedy Perez, Gonzalo  Harreguy, Proyecto Maestría CD**
 
-+ [*Presentación*](https://github.com/natydasilva/Jornadas_CDEduc23/tree/master/Presentaciones/8.Yanedy.pdf)
++ [*Presentación*](https://github.com/natydasilva/Jornadas_CDEduc23/tree/master/Presentaciones/8.Yanedy.pptx)
 
 **9.Modelización de test de evaluación incorporando los tiempos de respuesta al ítem, Leonardo Moreno, IESTA-FCEA.**
 
@@ -56,7 +56,7 @@ Cronograma
 
 **10. Procesamiento de audio para el análisis de la práctica docente. Pablo Cancela y Emilio Martínez, FING.**
 
-+ [*Presentación*](https://github.com/natydasilva/Jornadas_CDEduc23/tree/master/Presentaciones/10.Pres_FING.pdf)
++ [*Presentación*](https://github.com/natydasilva/Jornadas_CDEduc23/tree/master/Presentaciones/10.Cancela_Martinez.pdf)
 
 
 
