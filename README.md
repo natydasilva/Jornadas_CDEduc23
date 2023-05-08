@@ -6,7 +6,7 @@ Jornadas de Ciencia de Datos en Educación
 Descripción
 ============
 
-Este repositorio contiene las presentaciones de las Jornadas de Ciencia de Datos en Educación organizadas en organizadas en el marco del Fondo Sectorial de Educación "Inclusión Digital: Educación con Nuevos Horizontes" - 2020. Proyecto: Monitor y evaluación de uso de las plataformas educativas desarrollado por el Instituto de Estadística de FCEA-UdelaR con contraparte de CEIBAL (responsable Natalia da Silva).
+Este repositorio contiene las presentaciones de las Jornadas de Ciencia de Datos en Educación organizadas en el marco del Fondo Sectorial de Educación "Inclusión Digital: Educación con Nuevos Horizontes" - 2020. Proyecto: Monitor y evaluación de uso de las plataformas educativas desarrollado por el Instituto de Estadística de FCEA-UdelaR con contraparte de CEIBAL (responsable Natalia da Silva).
 El objetivo de las Jornadas y el cronograma del mismo se encuentran en [*Jornadas*](https://github.com/natydasilva/Jornadas_CDEduc23/tree/master/Jornadas.pdf)
 
 Las jornadas se realizaron el día Jueves 4 de Mayo en FCEA, salón Anfiteatro del Edificio de Investigación y Posgrados (EIP).
@@ -28,7 +28,7 @@ Cronograma
 
 + [*Presentación*](https://github.com/natydasilva/Jornadas_CDEduc23/tree/master/Presentaciones/3.Plataformas_INEED.pdf)
 
-**4. Impacto del COVID-19 en educación superior para un país en desarrollo: Evidencia de Uruguay. Alina Machado, IECON-FCEA. **
+**4. Impacto del COVID-19 en educación superior para un país en desarrollo: Evidencia de Uruguay. Alina Machado, IECON-FCEA.**
 
 + [*Presentación*](https://github.com/natydasilva/Jornadas_CDEduc23/tree/master/Presentaciones/4.Alina.pdf)
 
