@@ -51,7 +51,7 @@ Cronograma
 
 **9.Modelización de test de evaluación incorporando los tiempos de respuesta al ítem, Leonardo Moreno, IESTA-FCEA.**
 
-+ [*Presentación*](https://github.com/natydasilva/Jornadas_CDEduc23/tree/master/Presentaciones/9.Leo.pdf)
++ [*Presentación*](https://github.com/natydasilva/Jornadas_CDEduc23/tree/master/Presentaciones/9.Moreno.pdf)
 
 
 **10. Procesamiento de audio para el análisis de la práctica docente. Pablo Cancela y Emilio Martínez, FING.**
