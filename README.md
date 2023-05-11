@@ -22,7 +22,7 @@ Cronograma
 
 **2. Plataformas educativas, datos y casos de uso en Ceibal. Equipo datos CEIBAL.  Camila Ferro, Sofía Harley y Oriana Galland**
 
-+ [*Presentación*](https://github.com/natydasilva/Jornadas_CDEduc23/tree/master/Presentaciones/1.Equipo_Datos_CEIBAL.pdf)
++ [*Presentación*](https://github.com/natydasilva/Jornadas_CDEduc23/tree/master/Presentaciones/1\\2.Equipo_Datos_CEIBAL.pdf)
 
 **3. Plataformas de Ceibal: Uso antes y durante la pandemia de COVID-19. Fierella Ferrando, Joana Urraburu y Jennifer Viña, INEED.**
 
