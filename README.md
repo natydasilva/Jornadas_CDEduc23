@@ -47,7 +47,7 @@ Cronograma
 
 **8.Predicción del riesgo de abandono en estudiantes de Jóvenes a Programar. Yanedy Perez, Gonzalo  Harreguy, Proyecto Maestría CD**
 
-+ [*Presentación*](https://github.com/natydasilva/Jornadas_CDEduc23/tree/master/Presentaciones/8.Yanedy.pptx)
++ [*Presentación*](https://github.com/natydasilva/Jornadas_CDEduc23/tree/master/Presentaciones/8.Yanedy_Perez.pdf)
 
 **9.Modelización de test de evaluación incorporando los tiempos de respuesta al ítem, Leonardo Moreno, IESTA-FCEA.**
 
